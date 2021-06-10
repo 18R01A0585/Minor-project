@@ -1,2 +1,2 @@
 # basic
-The repository is for my basic project
+This is my first repository
